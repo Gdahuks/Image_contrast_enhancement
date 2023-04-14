@@ -1,0 +1,9 @@
+img.png - Author: Biem - https://commons.wikimedia.org/wiki/File:Crayfish_low_contrast.JPG
+img_1.png - https://images.squarespace-cdn.com/content/v1/5e7460eb4b8bf93874801d9a/1586503860078-CJQ26XSV7INSZLTP45SR/getaquote-03.png?format=2500w
+img_2.png - https://pbs.twimg.com/ext_tw_video_thumb/1621578007277195264/pu/img/u7WGuTpL4btC0DEQ.jpg
+img_3.png - https://www.htb.co.jp/news/photo/19922.jpg
+img_4.png - https://media.cheggcdn.com/media/b50/b5005224-20d9-484f-a7f8-23636522c99d/phpaMSKWh
+img_5.png - https://skyserver.sdss.org/edr/en/astro/galaxies/images/n1232_Sc.gif
+img_7.png - https://www.researchgate.net/figure/Original-image-with-low-dynamic-range-left-and-the-transformed-picture-right_fig5_233864761
+img_8.png - https://www.goes.noaa.gov/graphics/example-IR.jpg
+img_9.png - http://imagizellc.com/images/contrast_enhancement.png
